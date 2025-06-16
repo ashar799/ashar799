@@ -24,7 +24,7 @@ I'm a **Data Scientist** and **AI Engineer** with expertise in **biomedical appl
 ## 🛠️ Technical Stack
 
 **Primary Language:** Python, 
-** Secondary Languages:** R, MATLAB etc.
+**Secondary Languages:** R, MATLAB etc.
 
 
 - 👯 I’m looking to collaborate on AI Engineering projects.
